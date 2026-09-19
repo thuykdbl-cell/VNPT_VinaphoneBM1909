@@ -1,0 +1,7 @@
+{
+  "name": "VinaPhone 5G - Cổng Gói Cước & Dịch Vụ Di Động",
+  "description": "Cổng thông tin và đăng ký gói cước di động VinaPhone 5G, Data siêu tốc, Gói VIP, M2M IoT và giải pháp số VNPT Bình Mỹ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
